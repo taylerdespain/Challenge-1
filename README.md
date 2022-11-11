@@ -24,7 +24,10 @@ April to August could be the best time of the year have a successful play.
 Here is shown the outcomes of plays based on the goal amount wanted by Plays listed in our Kickstarter workbook.
 
 ## Challenges of this Task
-I found that creating pivot tables with the correct information required is what I feel I will need the most refreshing on. The data was not terrible to manipulate but was challenging to get into the correct formats 
+I found that creating pivot tables with the correct information required is what I feel I will need the most refreshing on. The data was not terrible to manipulate but was challenging to get into the correct formats. I overcame some of the difficulties by getting on Youtube for examples along with going back through the notes from the Live Lesson videos uploaded by our Instructor Erik
+
+
+
 
 
 
