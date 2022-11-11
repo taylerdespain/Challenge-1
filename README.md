@@ -15,7 +15,7 @@ With this dataset, we are able to see a large amount of information from several
 ### Analysis
 By manipulating the data to what was needed, we produced data spreads for Theater Outcomes by Launch date and by goals as shown below
 
-![]C:\Users\TwD_2\OneDrive\Documents\Dataclass\Challenge-1\Outcomes_vs_Goals.png
+![]
 
 
 
