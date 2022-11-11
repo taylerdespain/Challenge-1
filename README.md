@@ -15,8 +15,16 @@ With this dataset, we are able to see a large amount of information from several
 ### Analysis
 By manipulating the data to what was needed, we produced data spreads for Theater Outcomes by Launch date and by goals as shown below
 
-![](Outcomes_vs_Goals.png)
+![](images/Theater_Outcomes_vs_launch.png)
+Here we see that based off the info, 
+April to August could be the best time of the year have a successful play.
 
+![](images/Outcomes_vs_Goals.png)
+
+Here is shown the outcomes of plays based on the goal amount wanted by Plays listed in our Kickstarter workbook.
+
+## Challenges of this Task
+I found that creating pivot tables with the correct information required is what I feel I will need the most refreshing on. The data was not terrible to manipulate but was challenging to get into the correct formats 
 
 
 
